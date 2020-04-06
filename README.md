@@ -1,4 +1,4 @@
-# Basic-Scientific-Calculator
+# Basic Scientific Calculator
 A Simple Scientific Calculator using C# lang. 
 ## Four Modes
 ### Basic | Standard
