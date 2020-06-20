@@ -13,7 +13,7 @@
 
 </div>
 
-# Advanced Scientific Calculator :calculator:
+# Advanced Scientific Calculator 🖩
 A Simple Scientific Calculator using C# lang. 
 ## Four Modes
 ### Basic | Standard
