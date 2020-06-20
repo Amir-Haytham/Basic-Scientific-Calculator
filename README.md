@@ -10,6 +10,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/AmirHaytham/Advanced-Scientific-Calculator)](https://github.com/AmirHaytham/Advanced-Scientific-Calculator/network)
 [![GitHub stars](https://img.shields.io/github/stars/AmirHaytham/Advanced-Scientific-Calculator)](https://github.com/AmirHaytham/Advanced-Scientific-Calculator/stargazers)
 
+</div>
+
 # Advanced Scientific Calculator
 A Simple Scientific Calculator using C# lang. 
 ## Four Modes
