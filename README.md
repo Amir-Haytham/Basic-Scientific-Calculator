@@ -2,7 +2,7 @@
  
 
 </p>
-<h3 align="center"> Advanced Scientific Calculator😎</h3>
+<h3 align="center"> Advanced Scientific Calculator 😎</h3>
 <div align="center">
 
 [![GitHub contributors](https://img.shields.io/github/contributors/AmirHaytham/Advanced-Scientific-Calculator)](https://github.com/AmirHaytham/Advanced-Scientific-Calculator/contributors)
@@ -13,7 +13,7 @@
 
 </div>
 
-# Advanced Scientific Calculator
+# Advanced Scientific Calculator 
 A Simple Scientific Calculator using C# lang. 
 ## Four Modes
 ### Basic | Standard
