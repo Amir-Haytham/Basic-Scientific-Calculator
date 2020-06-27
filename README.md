@@ -14,7 +14,7 @@
 </div>
 
 # Advanced Scientific Calculator 
-A Simple Scientific Calculator using C# lang. 
+A Simple Scientific Calculator (a.k.a C# windows forms project) using C# lang. 
 ## Four Modes
 ### Basic | Standard
 * E.g. Addition, Subtraction, Division,…etc
