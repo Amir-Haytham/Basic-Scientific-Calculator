@@ -14,7 +14,7 @@
 </div>
 
 # Advanced Scientific Calculator 
-An Advanced Scientific Calculator (a.k.a C# windows forms project) using C# lang. 
+An Advanced Scientific Calculator Desktop App (a.k.a C# windows forms project) using C# lang. 
 ## Four Modes
 ### Basic | Standard
 * E.g. Addition, Subtraction, Division,…etc
