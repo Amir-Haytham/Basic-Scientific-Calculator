@@ -23,7 +23,7 @@ E.g. Addition, Subtraction, Division,…etc
 ```
 ### Scientific
 ```
-E.g. X!, Trunc, Round, sin, e ^ x, cos,…etc
+E.g. X!, Trunc, Round, sin, e ^ x, cos, …etc
 ```
 ### Multiplication Table
 ```
