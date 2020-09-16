@@ -19,7 +19,7 @@
 ## Four Modes
 ### Basic | Standard
 ```
-E.g. Addition, Subtraction, Division,…etc
+E.g. Addition, Subtraction, Division, …etc
 ```
 ### Scientific
 ```
