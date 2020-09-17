@@ -21,7 +21,7 @@
 ```
 E.g. Addition, Subtraction, Division, …etc
 ```
-### Scientific
+### Scientific (Math mode)
 ```
 E.g. X!, Trunc, Round, sin, e ^ x, cos, …etc
 ```
